@@ -1,0 +1,8 @@
+.font-noto-serif{
+    font-family: "Noto Serif", serif;
+}
+
+.font-inter{
+    font-family: "Inter", sans-serif;
+}
+@import "tailwindcss"
